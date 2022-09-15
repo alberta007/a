@@ -1,0 +1,3 @@
+C:/Users/alber/OneDrive/Skrivbord/C/inlupp1/cmake-build-debug/CMakeFiles/inlupp1.dir
+C:/Users/alber/OneDrive/Skrivbord/C/inlupp1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alber/OneDrive/Skrivbord/C/inlupp1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
